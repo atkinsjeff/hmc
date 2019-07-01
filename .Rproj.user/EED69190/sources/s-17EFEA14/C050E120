@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560270941012.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "68652885",
+    "id" : "C050E120",
+    "lastKnownWriteTime" : 1562004784,
+    "last_content_update" : 1562004784714,
+    "path" : "D:/R_projects/hmc/05_hemlock_complexity_differences.R",
+    "project_path" : "05_hemlock_complexity_differences.R",
+    "properties" : {
+        "cursorPosition" : "13,0",
+        "scrollLine" : "3",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

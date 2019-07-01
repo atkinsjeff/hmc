@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560531539107.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5AFE5425",
+    "lastKnownWriteTime" : 1554299865,
+    "last_content_update" : 1554299865,
+    "path" : "D:/R_projects/FoRTE-canopy/05_inventory_disturbance.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "99,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

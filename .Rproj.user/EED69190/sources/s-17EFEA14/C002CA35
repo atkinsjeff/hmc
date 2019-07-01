@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560268460978.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C002CA35",
+    "lastKnownWriteTime" : 1560540328,
+    "last_content_update" : 1560540328991,
+    "path" : "D:/R_projects/hmc/04_species_diversity.R",
+    "project_path" : "04_species_diversity.R",
+    "properties" : {
+        "cursorPosition" : "63,52",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
