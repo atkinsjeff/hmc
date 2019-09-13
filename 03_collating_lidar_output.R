@@ -11,4 +11,4 @@ df <- list.files(path = output_directory, full.names = TRUE) %>%
   bind_rows
 
 df <- data.frame(df)
-write.csv(df, "forte_pcl_2018.CSV")
+#write.csv(df, "forte_pcl_2018.CSV")
